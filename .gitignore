@@ -2,7 +2,11 @@
 __pycache__/
 *.py[codz]
 *$py.class
-rm .env
+# Ignore environment config
+.env
+.env.local
+.env.*.local
+
 # C extensions
 *.so
 
