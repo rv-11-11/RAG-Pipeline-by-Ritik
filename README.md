@@ -1,9 +1,4 @@
 # -Retrieval-Augmented-Generation-RAG-pipeline
-
-
-
-go on github:
-
 step 1:
 create a empty folder in desktop
 step 2:
