@@ -1,7 +1,5 @@
 # -Retrieval-Augmented-Generation-RAG-pipeline
-to run this project 
-this is the image id of docker:: sha256:7104ed26e6fd3eb3fcce862e1754d7881bb9aa7b23d6401ea2fad1d3494b7d85
-this is thee name of docker container ::   adarshsha/rag
+
 
 
 go on github:
